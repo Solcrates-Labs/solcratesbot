@@ -6,13 +6,13 @@
 Some strategies allow you to run it 24/7 without taking a look on logs, but we do not recommend that.(at least on beta version)
 
 
-## How do we start?
+## How do we start? ( Windows version is the only one availible that was actually properly tested, for Linux and Mac please wait for further updates )
 For now, Solcrates Bot is a closed-source project. You need to download it from the RELEASE section of the repository as a executable file, listed in the right-middle section of the repository page. As the program is already precompiled file, you don't need to download NodeJS and modules to use it.
 
 ### For Windows
 Download .exe from releases of solcratesbot repository and launch it
 
-### For Linux
+### For Linux ( Note: this first release linux version is impossible to run and needs proper testing. I am gonna update it in the next release, or will edit this release, but only when I manage to run it properly without any crashing and such )
 For linux, first you need to install wget
 
 ```apt install wget```
