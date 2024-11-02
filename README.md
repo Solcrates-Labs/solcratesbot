@@ -12,8 +12,21 @@ For now, Solcrates Bot is a closed-source project. You need to download it from 
 ### For Windows
 Download .exe from releases of solcratesbot repository and launch it
 
+**OR**
+
+Use curl to download the release
+cd into your custom folder or make the new folder
+
+```
+mkdir solcratesbot
+cd solcratesbot
+curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/beta/solcratesbot-win.exe > solcratesbot-win.exe
+```
+
 ### For Linux ( Note: this first release linux version is impossible to run and needs proper testing. I am gonna update it in the next release, or will edit this release, but only when I manage to run it properly without any crashing and such )
-For linux, first you need to install wget
+**Use wget or curl**
+
+**If you use wget**
 
 ```apt install wget```
 
@@ -23,6 +36,9 @@ Create a folder for program, then with wget you now need to download the latest 
 mkdir solcratesbot
 cd solcratesbot
 wget https://github.com/Solcrates-Labs/solcratesbot/releases/download/beta/solcratesbot-linux
+
+IF YOU USE CURL REPLACE WGET with
+curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/beta/solcratesbot-linux > solcratesbot-linux
 ```
 
 To run a program after installation
