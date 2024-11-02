@@ -6,7 +6,7 @@
 Some strategies allow you to run it 24/7 without taking a look on logs, but we do not recommend that.(at least on beta version)
 
 
-## How do we start? ( Windows version is the only one availible that was actually properly tested, for Linux and Mac please wait for further updates )
+## How do we start?
 For now, Solcrates Bot is a closed-source project. You need to download it from the RELEASE section of the repository as a executable file, listed in the right-middle section of the repository page. As the program is already precompiled file, you don't need to download NodeJS and modules to use it.
 
 ### For Windows
@@ -20,10 +20,10 @@ cd into your custom folder or make the new folder
 ```
 mkdir solcratesbot
 cd solcratesbot
-curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/beta/solcratesbot-win.exe > solcratesbot-win.exe
+curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.0-beta-fixed/solcratesbot-win.exe > solcratesbot-win.exe
 ```
 
-### For Linux ( Note: this first release linux version is impossible to run and needs proper testing. I am gonna update it in the next release, or will edit this release, but only when I manage to run it properly without any crashing and such )
+### For Linux
 **Use wget or curl**
 
 **If you use wget**
@@ -35,10 +35,10 @@ Create a folder for program, then with wget you now need to download the latest 
 ```
 mkdir solcratesbot
 cd solcratesbot
-wget https://github.com/Solcrates-Labs/solcratesbot/releases/download/beta/solcratesbot-linux
+wget https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.0-beta-fixed/solcratesbot-linux
 
 IF YOU USE CURL REPLACE WGET with
-curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/beta/solcratesbot-linux > solcratesbot-linux
+curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.0-beta-fixed/solcratesbot-linux > solcratesbot-linux
 ```
 
 To run a program after installation
