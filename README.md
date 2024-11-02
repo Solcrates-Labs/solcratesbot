@@ -43,7 +43,10 @@ curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.0-
 
 To run a program after installation
 
-```./solcratesbot-linux```
+```
+chmod +x solcratesbot-linux // Execute this once to make solcratesbot-linux an executable
+./solcratesbot-linux
+```
 
 ❓ **As the program starts, it will create .env file for environmental variables(stored only on your PC/VPS) to list in:
 Private_key variable: The private key of your solana wallet.
