@@ -20,7 +20,7 @@ cd into your custom folder or make the new folder
 ```
 mkdir solcratesbot
 cd solcratesbot
-curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.0-beta-fixed/solcratesbot-win.exe > solcratesbot-win.exe
+curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.2-beta/solcratesbot-win.exe > solcratesbot-win.exe
 ```
 
 ### For Linux
@@ -35,10 +35,10 @@ Create a folder for program, then with wget you now need to download the latest 
 ```
 mkdir solcratesbot
 cd solcratesbot
-wget https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.0-beta-fixed/solcratesbot-linux
+wget https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.2-beta/solcratesbot-linux
 
 IF YOU USE CURL REPLACE WGET with
-curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.0-beta-fixed/solcratesbot-linux > solcratesbot-linux
+curl -L https://github.com/Solcrates-Labs/solcratesbot/releases/download/v0.1.2-beta/solcratesbot-linux > solcratesbot-linux
 ```
 
 To run a program after installation
