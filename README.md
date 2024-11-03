@@ -49,8 +49,12 @@ chmod +x solcratesbot-linux // Execute this once to make solcratesbot-linux an e
 ```
 
 ❓ **As the program starts, it will create .env file for environmental variables(stored only on your PC/VPS) to list in:
-Private_key variable: The private key of your solana wallet.
-Rpc_url variable: Remote Procedure Call URL. You can get it from diverse RPC Solana providers, such as Helius, Alchemy, Quicknode, GetBlock, PublicNode. Usually free/freemium tier is enough to run a program if you use only basic strategies that are not SCALPING and ARBITRAGE**
+
+**Private_key variable: The private key of your solana wallet.**
+
+**Rpc_url variable: Remote Procedure Call Server URL.**
+You can get it from diverse RPC Solana providers, such as Helius, Alchemy, Quicknode, GetBlock, PublicNode. Usually free/freemium tier is enough to run a program if you use only basic strategies that are not SCALPING and ARBITRAGE
+
 
 After setting all variables in .env file, launch program again.
 
