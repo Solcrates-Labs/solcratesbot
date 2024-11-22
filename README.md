@@ -9,6 +9,9 @@ Some strategies allow you to run it 24/7 without taking a look on logs, but we d
 ## How do we start?
 For now, Solcrates Bot is a closed-source project. You need to download it from the RELEASE section of the repository as a executable file, listed in the right-middle section of the repository page. As the program is already precompiled file, you don't need to download NodeJS and modules to use it.
 
+### Youtube installation guide
+https://youtu.be/45fdUPvSDhQ
+
 ### For Windows
 Download .exe from releases of solcratesbot repository and launch it
 
