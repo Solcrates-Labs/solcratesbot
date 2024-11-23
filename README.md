@@ -1,4 +1,6 @@
 # Solcrates Bot 🤖
+![ezgif-1-d1311465c9](https://github.com/user-attachments/assets/1e6a2a77-bf4f-4a62-abeb-e68ec5849bc2)
+
 ❓ **What is exactly a Solcrates Bot?** ❓
 
 🤖 **Solcrates Bot is an automatic algorithmic trading system on SOL chain for trading memecoins and other on-chain coins, that runs locally on your computer/VPS, and uses live OHLCV data, creating tech-analysis algorithms that allow you to auto-trade exactly as the strategy sounds, providing you with good automatic profit-take/stop-loss.**
