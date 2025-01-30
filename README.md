@@ -4,11 +4,10 @@
 [![Email Badge](https://img.shields.io/badge/Contact-magenta?style=flat-square&logo=Gmail&logoColor=FFFFFF&labelColor=992580&color=FF00FF)](mailto:contact@solcrateslabs.tech)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCM_Dpg2VuwMwvJOfQve2olg)
 
-**More documentation:**
+# Telegram Version Released!
+### [Telegram Bot](https://t.me/solcratesbot)
 
-<https://solcrates-labs.gitbook.io/solcrateslabs/solcrates-bot>
-
-# Solcrates Bot 🤖
+### Solcrates Bot 🤖
 ![ezgif-1-d1311465c9](https://github.com/user-attachments/assets/1e6a2a77-bf4f-4a62-abeb-e68ec5849bc2)
 
 ❓ **What is exactly a Solcrates Bot?** ❓
